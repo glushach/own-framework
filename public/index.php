@@ -9,10 +9,10 @@ define('WWW', __DIR__);
 define('CORE', dirname(__DIR__) . '/vendor/core');
 define('ROOT', dirname(__DIR__));
 define('APP', dirname(__DIR__) . '/app');
+define('LAYOUT', 'default');
 
 // require '../vendor/core/Router.php';
 require '../vendor/libs/functions.php';
-debug($_GET);
 
 spl_autoload_register(function($class) {
   $file = ROOT . '/' . str_replace('\\', '/', $class) . '.php';
@@ -30,6 +30,5 @@ Router::add('^/(?P<controller>[a-z-]+)/?(?P<action>[a-z-]+)?$');
 
 // Router::add('<controller: [a-z-]+>/<action: [a-z-]+>'); // реализация во фремворках, например Yii
 
-debug(Router::getPoutes());
 
 Router::dispatch($query);
