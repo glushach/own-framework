@@ -49,9 +49,9 @@ class Router
    */
   public static function dispatch($url)
   {
+    $url = self::removeQueryString($url);
     if (self::matchPoute($url)) {
       $controller = 'app\controllers\\' . self::$route['controller'];
-      debug(self::$route);
       if(class_exists($controller)) {
         $cObj = new $controller(self::$route);
         $action = self::lowerCamelCase(self::$route['action']) . 'Action';
@@ -77,5 +77,15 @@ class Router
   protected static function lowerCamelCase($name)
   {
     return lcfirst(self::upperCamelCase($name));
+  }
+
+  protected static function removeQueryString($url)
+  {
+    if($url) {
+      $params = preg_split("/(\\&|\\?)/", $url);
+      debug($params);
+    }
+    debug($url);
+    return $url;
   }
 }
