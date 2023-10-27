@@ -50,6 +50,7 @@ class Router
   public static function dispatch($url)
   {
     $url = self::removeQueryString($url);
+    var_dump($url);
     if (self::matchPoute($url)) {
       $controller = 'app\controllers\\' . self::$route['controller'];
       if(class_exists($controller)) {
@@ -82,10 +83,13 @@ class Router
   protected static function removeQueryString($url)
   {
     if($url) {
-      $params = preg_split("/(\\&|\\?)/", $url);
-      debug($params);
+      // $params = preg_split("/(\\&|\\?)/", $url);
+      $params = explode('?', $url, 2);
+      if (false === strpos($params[0], '=')) {
+        return rtrim($params[0], '/');
+      } else {
+        return '';
+      }
     }
-    debug($url);
-    return $url;
   }
 }

@@ -15,5 +15,3 @@ class Posts extends \vendor\core\base\Controller
     echo 'Posts::test';
   }
 }
-
-// 18:55
