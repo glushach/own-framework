@@ -14,6 +14,9 @@
 
   <?=$content;?>
 
+  <?= debug(\vendor\core\Db::$countSql) ?>
+  <?= debug(\vendor\core\Db::$queries) ?>
+
   <script src="/bootstrap/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
 </body>
 

@@ -2,7 +2,7 @@
 
 namespace app\controllers;
 
-class NewsPost
+class NewsPostController extends AppController
 {
   public function indexAction()
   {
