@@ -13,11 +13,15 @@ class Db
   protected function __construct()
   {
     $db = require ROOT . '/config/config_db.php';
-    $options = [
+    require LIBS . '/rb.php';
+    \R::setup($db['dsn'], $db['user'], $db['pass']);
+    \R::freeze(true);
+    // \R::fancyDebug(TRUE);
+/*     $options = [
       \PDO::ATTR_ERRMODE => \PDO::ERRMODE_EXCEPTION,
       \PDO::ATTR_DEFAULT_FETCH_MODE => \PDO::FETCH_ASSOC
     ];
-    $this->pdo = new \PDO($db['dsn'], $db['user'], $db['pass'], $options);
+    $this->pdo = new \PDO($db['dsn'], $db['user'], $db['pass'], $options); */
   }
 
   public static function instance()
@@ -28,7 +32,7 @@ class Db
     return self::$instance;
   }
 
-  public function execute($sql, $params = [])
+  /* public function execute($sql, $params = [])
   {
     self::$countSql++;
     self::$queries[] = $sql;
@@ -46,7 +50,7 @@ class Db
       return $stmt->fetchAll();
     }
     return [];
-  }
+  } */
 
 
 }

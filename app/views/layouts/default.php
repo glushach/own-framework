@@ -10,13 +10,26 @@
 </head>
 
 <body>
-  <h1>Hello, world!</h1>
+  <div class="container">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <div class="container-fluid">
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <?php foreach ($menu as $item) : ?>
+              <li><a href="<?= $item['id'] ?>"><?= $item['title'] ?></a></li>
+            <?php endforeach; ?>
+          </ul>
+        </div>
+      </div>
+    </nav>
 
-  <?=$content;?>
+    <h1>Hello, world!</h1>
 
-  <?= debug(\vendor\core\Db::$countSql) ?>
-  <?= debug(\vendor\core\Db::$queries) ?>
+    <?=$content;?>
 
+    <!-- <?= debug(\vendor\core\Db::$countSql) ?> -->
+    <!-- <?= debug(\vendor\core\Db::$queries) ?> -->
+  </div>
   <script src="/bootstrap/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
 </body>
 
