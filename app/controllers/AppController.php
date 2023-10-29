@@ -10,9 +10,9 @@ class AppController extends \vendor\core\base\Controller
   public function __construct($route)
   {
     parent::__construct($route);
-    if($this->route['controller'] == 'Main' && $this->route['action'] == 'test') {
+/*     if($this->route['controller'] == 'Main' && $this->route['action'] == 'test') {
       echo '<h1>TEST</h1>';
-    }
+    } */
     new \app\models\Main;
     $this->menu = \R::findAll('category');
   }

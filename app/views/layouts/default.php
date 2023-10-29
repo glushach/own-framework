@@ -7,8 +7,8 @@
   <title><?=$meta['title']?></title>
   <meta name="description" content="<?=$meta['desc']?>">
   <meta name="keywords" content="<?=$meta['keywords']?>">
-  <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
-  <link href="/css/main.css" rel="stylesheet" crossorigin="anonymous">
+  <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/main.css" rel="stylesheet">
 </head>
 
 <body>
@@ -35,7 +35,13 @@
     <!-- <?= debug(\vendor\core\Db::$countSql) ?> -->
     <!-- <?= debug(\vendor\core\Db::$queries) ?> -->
   </div>
-  <script src="/bootstrap/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+  <script src="/jquery/jquery-3.7.1.min.js"></script>
+  <script src="/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <?php
+    foreach($scripts as $script) {
+      echo $script;
+    }
+  ?>
 </body>
 
 </html>
