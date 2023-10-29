@@ -4,9 +4,11 @@ namespace vendor\core;
 
 class Registry
 {
+  use TSingletone;
+  
   public static $objects = [];
 
-  protected static $instance;
+  // protected static $instance;
 
   protected function __construct()
   {
@@ -16,13 +18,13 @@ class Registry
     }
   }
 
-  public static function instance()
+ /*  public static function instance()
   {
     if(self::$instance === null) {
       self::$instance = new self;
     }
     return self::$instance;
-  }
+  } */
 
   public function __get($name)
   {
