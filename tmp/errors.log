@@ -7,3 +7,27 @@
 ==============
 [2023-10-30 16:27:45] Текст ошибки: Undefined variable $test | Файл: C:\OpenServer\domains\fw.loc\app\controllers\MainController.php | Строка: 18
 ==============
+[2023-10-30 17:15:23] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\fw.loc\vendor\core\Router.php | Строка: 72
+==============
+[2023-10-30 17:15:24] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\fw.loc\vendor\core\Router.php | Строка: 72
+==============
+[2023-10-30 17:15:51] Текст ошибки: Undefined variable $test | Файл: C:\OpenServer\domains\fw.loc\app\controllers\MainController.php | Строка: 18
+==============
+[2023-10-30 17:21:55] Текст ошибки: Undefined variable $test | Файл: C:\OpenServer\domains\fw.loc\app\controllers\MainController.php | Строка: 18
+==============
+[2023-10-30 17:22:17] Текст ошибки: Undefined variable $test | Файл: C:\OpenServer\domains\fw.loc\app\controllers\MainController.php | Строка: 18
+==============
+[2023-10-30 17:22:56] Текст ошибки: Undefined variable $test | Файл: C:\OpenServer\domains\fw.loc\app\controllers\MainController.php | Строка: 18
+==============
+[2023-10-30 17:22:56] Текст ошибки: Call to undefined function app\controllers\test() | Файл: C:\OpenServer\domains\fw.loc\app\controllers\MainController.php | Строка: 19
+==============
+[2023-10-30 17:25:19] Текст ошибки: E_USER_ERROR | Файл: C:\OpenServer\domains\fw.loc\app\controllers\MainController.php | Строка: 19
+==============
+[2023-10-30 17:27:26] Текст ошибки: E_USER_ERROR | Файл: C:\OpenServer\domains\fw.loc\app\controllers\MainController.php | Строка: 19
+==============
+[2023-10-30 17:27:52] Текст ошибки: E_USER_ERROR | Файл: C:\OpenServer\domains\fw.loc\app\controllers\MainController.php | Строка: 19
+==============
+[2023-10-30 17:28:30] Текст ошибки: Undefined variable $test | Файл: C:\OpenServer\domains\fw.loc\app\controllers\MainController.php | Строка: 18
+==============
+[2023-10-30 17:28:50] Текст ошибки: E_USER_ERROR | Файл: C:\OpenServer\domains\fw.loc\app\controllers\MainController.php | Строка: 19
+==============

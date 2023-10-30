@@ -20,8 +20,9 @@ class ErrorHandler
   public function errorHandler($errno, $errstr, $errfile, $errline)
   {
     $this->logErrors($errstr, $errfile, $errline);
-    /* error_log("[" . date('Y-m-d H:i:s') . "] Текст ошибки: {$errstr} | Файл: {$errfile} | Строка: {$errline}\n==============\n", 3, __DIR__ . '/errors.log'); */
-    $this->displayError($errno, $errstr, $errfile, $errline);
+    if (DEBUG || in_array($errno, [E_USER_ERROR, E_RECOVERABLE_ERROR])) {
+      $this->displayError($errno, $errstr, $errfile, $errline);
+    }
     return true;
   }
 
@@ -30,7 +31,6 @@ class ErrorHandler
     $error = error_get_last();
     if(!empty($error) AND $error['type'] & ( E_ERROR | E_PARSE | E_COMPILE_ERROR | E_CORE_ERROR)) {
       $this->logErrors($error['message'], $error['file'], $error['line']);
-      /* error_log("[" . date('Y-m-d H:i:s') . "] Текст ошибки: {$error['message']} | Файл: {$error['file']} | Строка: {$error['line']}\n==============\n", 3, __DIR__ . '/errors.log'); */
       ob_end_clean();
       $this->displayError($error['type'], $error['message'], $error['file'], $error['line']);
     } else {
@@ -41,7 +41,6 @@ class ErrorHandler
   public function exceptionHandler($e)
   {
     $this->logErrors($e->getMessage(), $e->getFile(), $e->getLine());
-   /*  error_log("[" . date('Y-m-d H:i:s') . "] Текст ошибки: {$e->getMessage()} | Файл: {$e->getFile()} | Строка: {$e->getLine()}\n==============\n", 3, __DIR__ . '/errors.log'); */
     $this->displayError('Исключение', $e->getMessage(), $e->getFile(), $e->getLine(), $e->getCode());
   }
 

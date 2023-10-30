@@ -15,6 +15,8 @@ class MainController extends AppController
   {
     // \R::fancyDebug(true);
     $model = new Main;
+    // echo $test;
+    // trigger_error("E_USER_ERROR", E_USER_ERROR);
     $posts = App::$app->cache->get('posts');
     $post = \R::findOne('posts', 'id = 1');
     $menu = $this->menu;
@@ -29,6 +31,8 @@ class MainController extends AppController
   {
     if ($this->isAjax()) {
       $model = new Main();
+    /*  $data = ['answer' => 'Ответ с сервера', 'code' => 200];
+      echo json_encode($data); */
       $post = \R::findOne('posts', "id={$_POST['id']}");
       $this->loadView('_test', compact('post'));
       die;
