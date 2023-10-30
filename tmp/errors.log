@@ -31,3 +31,29 @@
 ==============
 [2023-10-30 17:28:50] Текст ошибки: E_USER_ERROR | Файл: C:\OpenServer\domains\fw.loc\app\controllers\MainController.php | Строка: 19
 ==============
+[2023-10-30 20:18:07] Текст ошибки: Контроллер <b>app\controllers\DwdqController</b> не найден | Файл: C:\OpenServer\domains\fw.loc\vendor\core\Router.php | Строка: 67
+==============
+[2023-10-30 20:21:16] Текст ошибки: Undefined array key "cacshe" | Файл: C:\OpenServer\domains\fw.loc\vendor\core\Registry.php | Строка: 31
+==============
+[2023-10-30 20:21:16] Текст ошибки: Call to a member function get() on null | Файл: C:\OpenServer\domains\fw.loc\app\controllers\MainController.php | Строка: 20
+==============
+[2023-10-30 20:33:07] Текст ошибки: foreach() argument must be of type array|object, int given | Файл: C:\OpenServer\domains\fw.loc\app\views\Main\index.php | Строка: 6
+==============
+[2023-10-30 20:33:59] Текст ошибки: foreach() argument must be of type array|object, int given | Файл: C:\OpenServer\domains\fw.loc\app\views\Main\index.php | Строка: 6
+==============
+[2023-10-30 20:33:59] Текст ошибки: foreach() argument must be of type array|object, int given | Файл: C:\OpenServer\domains\fw.loc\app\views\Main\index.php | Строка: 6
+==============
+[2023-10-30 20:34:00] Текст ошибки: foreach() argument must be of type array|object, int given | Файл: C:\OpenServer\domains\fw.loc\app\views\Main\index.php | Строка: 6
+==============
+[2023-10-30 20:34:01] Текст ошибки: foreach() argument must be of type array|object, int given | Файл: C:\OpenServer\domains\fw.loc\app\views\Main\index.php | Строка: 6
+==============
+[2023-10-30 20:34:02] Текст ошибки: foreach() argument must be of type array|object, int given | Файл: C:\OpenServer\domains\fw.loc\app\views\Main\index.php | Строка: 6
+==============
+[2023-10-30 20:34:03] Текст ошибки: foreach() argument must be of type array|object, int given | Файл: C:\OpenServer\domains\fw.loc\app\views\Main\index.php | Строка: 6
+==============
+[2023-10-30 20:34:30] Текст ошибки: foreach() argument must be of type array|object, int given | Файл: C:\OpenServer\domains\fw.loc\app\views\Main\index.php | Строка: 6
+==============
+[2023-10-30 20:34:38] Текст ошибки: foreach() argument must be of type array|object, int given | Файл: C:\OpenServer\domains\fw.loc\app\views\Main\index.php | Строка: 6
+==============
+[2023-10-30 20:35:18] Текст ошибки: foreach() argument must be of type array|object, int given | Файл: C:\OpenServer\domains\fw.loc\app\views\Main\index.php | Строка: 6
+==============
