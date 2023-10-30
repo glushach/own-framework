@@ -1,6 +1,7 @@
 <div class="container">
   <div id="answer"></div>
   <div class="btn btn-dark" id="send">Кнопка</div>
+  <br>
   <?php new \vendor\widgets\menu\Menu(); ?>
   <?php if (!empty($posts)) : ?>
     <?php foreach ($posts as $post) : ?>

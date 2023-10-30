@@ -57,3 +57,5 @@
 ==============
 [2023-10-30 20:35:18] Текст ошибки: foreach() argument must be of type array|object, int given | Файл: C:\OpenServer\domains\fw.loc\app\views\Main\index.php | Строка: 6
 ==============
+[2023-10-30 22:17:59] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 32
+==============
