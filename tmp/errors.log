@@ -59,3 +59,77 @@
 ==============
 [2023-10-30 22:17:59] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 32
 ==============
+[2023-10-31 09:03:48] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 32
+==============
+[2023-10-31 09:03:49] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\fw.loc\vendor\core\Router.php | Строка: 72
+==============
+[2023-10-31 09:23:37] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 33
+==============
+[2023-10-31 09:23:37] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\menu_tpl\menu.php | Строка: 2
+==============
+[2023-10-31 09:48:26] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 51
+==============
+[2023-10-31 09:48:26] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 09:48:26] Текст ошибки: Call to undefined method vendor\widgets\menu\Menu::menuHtml() | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 33
+==============
+[2023-10-31 09:50:29] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 51
+==============
+[2023-10-31 09:50:29] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 09:52:18] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 51
+==============
+[2023-10-31 09:52:18] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\menu_tpl\menu.php | Строка: 2
+==============
+[2023-10-31 09:54:41] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 09:54:41] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\menu_tpl\menu.php | Строка: 2
+==============
+[2023-10-31 09:55:36] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 09:55:36] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\menu_tpl\menu.php | Строка: 2
+==============
+[2023-10-31 10:01:47] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 10:01:47] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\menu_tpl\menu.php | Строка: 2
+==============
+[2023-10-31 10:04:48] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 10:04:48] Текст ошибки: require(C:\OpenServer\domains\fw.loc\public/menu_tpl/select.php): Failed to open stream: No such file or directory | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 73
+==============
+[2023-10-31 10:04:48] Текст ошибки: Failed opening required 'C:\OpenServer\domains\fw.loc\public/menu_tpl/select.php' (include_path='.') | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 73
+==============
+[2023-10-31 10:05:15] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 10:07:04] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 10:07:05] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 10:07:06] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 10:07:50] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 10:07:50] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\fw.loc\vendor\core\Router.php | Строка: 72
+==============
+[2023-10-31 10:07:50] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 10:07:50] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\fw.loc\vendor\core\Router.php | Строка: 72
+==============
+[2023-10-31 10:07:50] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 10:07:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\fw.loc\vendor\core\Router.php | Строка: 72
+==============
+[2023-10-31 10:07:51] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 10:07:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\fw.loc\vendor\core\Router.php | Строка: 72
+==============
+[2023-10-31 10:07:51] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 10:07:51] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\fw.loc\vendor\core\Router.php | Строка: 72
+==============
+[2023-10-31 10:07:51] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 10:07:51] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 10:07:52] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\fw.loc\vendor\core\Router.php | Строка: 72
+==============
