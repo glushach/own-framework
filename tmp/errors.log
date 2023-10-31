@@ -189,3 +189,601 @@
 ==============
 [2023-10-31 14:34:50] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
 ==============
+[2023-10-31 14:41:32] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:51:14] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:55:42] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:55:42] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 14:56:07] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:57:18] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:57:18] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 14:57:40] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:57:49] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:57:49] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 14:59:13] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:59:13] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 14:59:53] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:59:53] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 14:59:53] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:59:53] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:00:42] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 15:00:42] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:00:42] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 15:00:42] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:08:57] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 15:09:48] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:10:40] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 53
+==============
+[2023-10-31 15:11:05] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 53
+==============
+[2023-10-31 15:11:15] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 53
+==============
+[2023-10-31 15:13:22] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 15:13:24] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 15:13:33] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 53
+==============
+[2023-10-31 15:15:22] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:16:05] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:16:44] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 3
+==============
+[2023-10-31 15:17:23] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 3
+==============
+[2023-10-31 15:17:36] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:17:58] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:18:47] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:19:11] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:19:11] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:19:11] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:19:11] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:21:09] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:21:09] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:21:29] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:21:29] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:23:10] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:23:10] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:23:10] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:23:10] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:23:12] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:23:12] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:23:12] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:23:12] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:23:37] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:23:37] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:23:37] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:23:37] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:23:49] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:24:06] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:25:37] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:25:38] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:25:49] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 6
+==============
+[2023-10-31 15:26:07] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:28:21] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:29:03] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:29:03] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:29:03] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:29:03] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:29:33] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 59
+==============
+[2023-10-31 15:29:33] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:29:33] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 59
+==============
+[2023-10-31 15:29:33] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:30:01] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:30:01] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:30:01] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:30:01] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 60
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 60
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 60
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 60
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 59
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 60
+==============
+[2023-10-31 15:31:18] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 60
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 60
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 60
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 60
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 63
+==============
+[2023-10-31 15:31:18] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 59
+==============
+[2023-10-31 15:31:18] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 60
+==============
+[2023-10-31 15:31:18] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 61
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 61
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 61
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 61
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 59
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 61
+==============
+[2023-10-31 15:31:56] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 61
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 61
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 61
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 61
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:31:56] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 59
+==============
+[2023-10-31 15:31:56] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 61
+==============
+[2023-10-31 15:31:56] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 59
+==============
+[2023-10-31 15:32:28] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\select.php | Строка: 1
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Array to string conversion | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 15:32:28] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 59
+==============
+[2023-10-31 15:32:28] Текст ошибки: Undefined array key "title" | Файл: C:\OpenServer\domains\fw.loc\public\menu\my_menu.php | Строка: 2
+==============
+[2023-10-31 15:34:02] Текст ошибки: Undefined array key "childs" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 62
+==============
