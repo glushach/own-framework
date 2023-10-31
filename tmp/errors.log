@@ -133,3 +133,59 @@
 ==============
 [2023-10-31 10:07:52] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\fw.loc\vendor\core\Router.php | Строка: 72
 ==============
+[2023-10-31 13:54:09] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 64
+==============
+[2023-10-31 13:54:36] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 13:56:35] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 13:57:22] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 53
+==============
+[2023-10-31 14:01:28] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 53
+==============
+[2023-10-31 14:06:08] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 53
+==============
+[2023-10-31 14:06:09] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 53
+==============
+[2023-10-31 14:06:37] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table' at line 1 | Файл: C:\OpenServer\domains\fw.loc\vendor\libs\rb.php | Строка: 838
+==============
+[2023-10-31 14:07:31] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 53
+==============
+[2023-10-31 14:07:33] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 53
+==============
+[2023-10-31 14:16:38] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 53
+==============
+[2023-10-31 14:16:39] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 53
+==============
+[2023-10-31 14:16:54] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:19:07] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:19:45] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:20:31] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:20:55] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:22:14] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:22:15] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:22:15] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:22:16] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:22:16] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:23:06] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 66
+==============
+[2023-10-31 14:23:39] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:24:22] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:34:49] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:34:50] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============
+[2023-10-31 14:34:50] Текст ошибки: Undefined array key "parent" | Файл: C:\OpenServer\domains\fw.loc\vendor\widgets\menu\Menu.php | Строка: 52
+==============

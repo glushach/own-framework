@@ -40,7 +40,7 @@ class Menu
     $this->data = \R::getAssoc("SELECT * FROM {$this->table}");
     $this->tree = $this->getTree();
     // debug($this->tree);
-    $this->menuHtml = $this->getMenuHtml(($this->tree));
+    $this->menuHtml = $this->getMenuHtml($this->tree);
     $this->output();
   }
 
