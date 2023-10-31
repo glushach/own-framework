@@ -2,6 +2,8 @@
 
 namespace vendor\widgets\menu;
 
+use vendor\libs\Cache;
+
 class Menu 
 {
   protected $data;
@@ -12,6 +14,7 @@ class Menu
   protected $class = 'menu';
   protected $table = 'categories';
   protected $cache = 3600;
+  protected $cacheKey = 'fw_menu';
 
   public function __construct($options = [])
   {
@@ -37,10 +40,14 @@ class Menu
 
   protected function run()
   {
-    $this->data = \R::getAssoc("SELECT * FROM {$this->table}");
-    $this->tree = $this->getTree();
-    // debug($this->tree);
-    $this->menuHtml = $this->getMenuHtml($this->tree);
+    $cache = new Cache();
+    $this->menuHtml = $cache->get($this->cacheKey);
+    if(!$this->menuHtml) {
+      $this->data = \R::getAssoc("SELECT * FROM {$this->table}");
+      $this->tree = $this->getTree();
+      $this->menuHtml = $this->getMenuHtml($this->tree);
+      $cache->set($this->cacheKey, $this->menuHtml, $this->cache);
+    }
     $this->output();
   }
 

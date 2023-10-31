@@ -1,0 +1,10 @@
+.vscode
+.idea
+.temporary_cache
+dist
+/dist
+/tmp
+/node_modules
+node_modules
+package-lock.json
+gulp/version.json
