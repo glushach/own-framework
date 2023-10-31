@@ -10,13 +10,13 @@
     'table' => 'categories',
     'cache' => 60,
   ]); ?>
-  <!-- <?php new \vendor\widgets\menu\Menu([
+  <?php new \vendor\widgets\menu\Menu([
     'tpl' => WWW . '/menu/my_menu.php',
     'container' => 'ul',
     'class' => 'my-menu',
     'table' => 'categories',
     'cache' => 60,
-  ]); ?> -->
+  ]); ?>
   <?php if (!empty($posts)) : ?>
     <?php foreach ($posts as $post) : ?>
       <div class="card" style="width: 18rem;">

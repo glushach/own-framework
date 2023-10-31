@@ -49,10 +49,10 @@ class Menu
     $tree = [];
     $data = $this->data;
     foreach ($data as $id=>&$node) {
-      if ($node['parent'] !== 0) {
+      if (!$node['parent']) {
         $tree[$id] = &$node;
       } else {
-        echo $data[$node['parent']]['childs'][$id];
+        $data[$node['parent']]['childs'][$id] = &$node;
       }
     }
     return $tree;
