@@ -9,7 +9,6 @@ class UserController extends AppController
   // public $layout = 'default';
 
   public function indexAction() {
-    debug($this->route);
     View::setMeta('Админка :: Главная страница', 'Описание админка', 'Ключевики админки');
     $test = 'Тестовая переменная';
     $data = ['test', '2'];
