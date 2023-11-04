@@ -2,7 +2,9 @@
 
 namespace app\controllers;
 
-class AppController extends \vendor\core\base\Controller
+use fw\core\base\Controller;
+
+class AppController extends Controller
 {
   public $menu;
   public $meta = [];

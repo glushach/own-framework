@@ -2,7 +2,7 @@
   <div id="answer"></div>
   <div class="btn btn-dark" id="send">Кнопка</div>
   <br>
-  <?php new \vendor\widgets\menu\Menu([
+  <?php new \fw\widgets\menu\Menu([
     // 'tpl' => WWW . '/menu/my_menu.php',
     'tpl' => WWW . '/menu/select.php',
     'container' => 'select',
@@ -11,14 +11,14 @@
     'cache' => 60,
     'cacheKey' => 'menu_select',
   ]); ?>
-  <?php new \vendor\widgets\menu\Menu([
+<!--   <?php new \fw\widgets\menu\Menu([
     'tpl' => WWW . '/menu/my_menu.php',
     'container' => 'ul',
     'class' => 'my-menu',
     'table' => 'categories',
     'cache' => 60,
     'cacheKey' => 'menu_ul',
-  ]); ?>
+  ]); ?> -->
   <?php if (!empty($posts)) : ?>
     <?php foreach ($posts as $post) : ?>
       <div class="card" style="width: 18rem;">
@@ -38,7 +38,9 @@
       $.ajax({
         url: '/main/test',
         type: 'post',
-        data: {'id': 2},
+        data: {
+          'id': 2
+        },
         success: function(res) {
           // const data = JSON.parse(res);
           // $('#answer').html(`<p>Ответ: ${data.answer} | Код: ${data.code}</p>`);
