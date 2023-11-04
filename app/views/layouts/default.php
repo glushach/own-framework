@@ -26,8 +26,6 @@
       </div>
     </nav>
 
-    <h1>Hello, world!</h1>
-
     <?=$content;?>
 
     <!-- <?= debug(\fw\core\Db::$countSql) ?> -->

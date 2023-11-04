@@ -2,7 +2,8 @@
     "name": "fw/fw",
     "require": {
         "monolog/monolog": "^2.9",
-        "phpmailer/phpmailer": "^6.8"
+        "phpmailer/phpmailer": "^6.8",
+        "vlucas/valitron": "^1.4"
     },
     "autoload": {
         "psr-4": {
