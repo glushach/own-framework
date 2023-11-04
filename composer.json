@@ -1,6 +1,9 @@
 {
     "name": "fw/fw",
-    "require": {},
+    "require": {
+        "monolog/monolog": "^2.9",
+        "phpmailer/phpmailer": "^6.8"
+    },
     "autoload": {
         "psr-4": {
             "fw\\": "vendor/fw",

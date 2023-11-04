@@ -5,6 +5,9 @@ namespace app\controllers;
 use app\models\Main;
 use fw\core\App;
 use fw\core\base\View;
+use Monolog\Logger;
+use Monolog\Handler\StreamHandler;
+use PHPMailer\PHPMailer\PHPMailer;
 
 class MainController extends AppController
 {
@@ -13,6 +16,16 @@ class MainController extends AppController
 
   public function indexAction()
   {
+    $log = new Logger('name');
+    $log->pushHandler(new StreamHandler(ROOT . '/tmp/your.log', Logger::WARNING));
+    $log->warning('Foo');
+    $log->error('Bar');
+
+    $mailer = new Phpmailer();
+    // var_dump($mailer);
+
+
+
     // \R::fancyDebug(true);
     $model = new Main;
     // echo $test;
