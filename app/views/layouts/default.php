@@ -11,22 +11,20 @@
 
 <body>
   <div class="container">
-    <?php if(!empty($menu)) : ?>
-      <nav class="navbar navbar-expand-lg bg-body-tertiary p-0">
-        <div class="container-fluid">
-          <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav d-flex gap-4 py-4">
-              <li><a href="/">Home</a></li>
-              <li><a href="/page/about">About</a></li>
-              <li><a href="/admin">Admin</a></li>
-              <!-- <?php foreach ($menu as $item) : ?>
-                <li><a href="<?= $item['id'] ?>"><?= $item['title'] ?></a></li>
-              <?php endforeach; ?> -->
-            </ul>
-          </div>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary p-0">
+      <div class="container-fluid">
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav d-flex gap-4 py-4">
+            <li><a href="/">Home</a></li>
+            <li><a href="/page/about">About</a></li>
+            <li><a href="/admin">Admin</a></li>
+            <li><a href="/user/signup">Singup</a></li>
+            <li><a href="/user/login">Login</a></li>
+            <li><a href="/user/logout">Logout</a></li>
+          </ul>
         </div>
-      </nav>
-    <?php endif ?>
+      </div>
+    </nav>
 
     <h1>Hello, world!</h1>
 
