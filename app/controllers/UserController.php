@@ -38,13 +38,14 @@ class UserController extends AppController
       } else {
         $_SESSION['error'] = 'Логин/пароль введены неверно';
       }
-      redirect();
+      redirect('/');
     }
     View::setMeta('Вход');
   }
 
   public function logoutAction() 
   {
-    
+    if(isset($_SESSION['user'])) unset($_SESSION['user']);
+    redirect('/user/login');
   }
 }
