@@ -43,7 +43,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
   <div class="header">
     <div class="container">
       <div class="logo">
-        <a href="index.html"><img src="/blog/images/logo.jpg" title="" /></a>
+        <a href="/"><img src="/blog/images/logo.jpg" title="" /></a>
       </div>
       <!---start-top-nav---->
       <div class="top-menu">
@@ -55,7 +55,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         </div>
         <span class="menu"> </span>
         <ul>
-          <li class="active"><a href="index.html">HOME</a></li>
+          <li class="active"><a href="/">HOME</a></li>
           <li><a href="about.html">ABOUT</a></li>
           <li><a href="contact.html">CONTACT</a></li>
           <div class="clearfix"> </div>
@@ -76,15 +76,21 @@ License URL: http://creativecommons.org/licenses/by/3.0/
       <div class="content-grids">
         <div class="col-md-8 content-main">
           <div class="content-grid">
-            <?= $content; ?>
-            <!-- <div class="content-grid-info">
-              <img src="/blog/images/post1.jpg" alt="" />
-              <div class="post-info">
-                <h4><a href="single.html">Lorem ipsum dolor sit amet</a> July 30, 2014 / 27 Comments</h4>
-                <p>Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis.</p>
-                <a href="single.html"><span></span>READ MORE</a>
+            <?php if (isset($_SESSION['error'])) : ?>
+              <div class="alert alert-danger">
+                <?= $_SESSION['error'];
+                unset($_SESSION['error']) ?>
               </div>
-            </div> -->
+            <?php endif; ?>
+
+            <?php if (isset($_SESSION['success'])) : ?>
+              <div class="alert alert-success">
+                <?= $_SESSION['success'];
+                unset($_SESSION['success']) ?>
+              </div>
+            <?php endif; ?>
+
+            <?= $content; ?>
           </div>
         </div>
         <div class="col-md-4 content-right">

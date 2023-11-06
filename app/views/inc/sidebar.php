@@ -1,3 +1,11 @@
+<!-- <?php new \fw\widgets\menu\Menu([
+  'tpl' => WWW . '/menu/select.php',
+  'container' => 'select',
+  'class' => 'my-select',
+  'table' => 'categories',
+  'cashe' => 60,
+  'cacheKey' => 'menu_select',
+]);?> -->
 <div class="recent">
   <h3>RECENT POSTS</h3>
   <ul>

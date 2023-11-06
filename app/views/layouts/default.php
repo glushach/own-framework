@@ -38,8 +38,6 @@
       </div>
     <?php endif; ?>
 
-    <!-- <?php debug($_SESSION); ?> -->
-
     <?=$content;?>
 
     <!-- <?= debug(\fw\core\Db::$countSql) ?> -->
