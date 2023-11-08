@@ -12,9 +12,6 @@ use PHPMailer\PHPMailer\PHPMailer;
 
 class MainController extends AppController
 {
-
-  // public $layout = 'main';
-
   public function indexAction()
   {
     $model = new Main;

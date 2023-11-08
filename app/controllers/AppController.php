@@ -1,8 +1,9 @@
 <?php
 
 namespace app\controllers;
-
+use fw\core\App;
 use fw\core\base\Controller;
+use fw\widgets\language\Language;
 
 class AppController extends Controller
 {
@@ -12,11 +13,10 @@ class AppController extends Controller
   public function __construct($route)
   {
     parent::__construct($route);
-/*     if($this->route['controller'] == 'Main' && $this->route['action'] == 'test') {
-      echo '<h1>TEST</h1>';
-    } */
     new \app\models\Main;
-    $this->menu = \R::findAll('category');
+    App::$app->setProperty('langs', Language::getLanguages());
+    App::$app->setProperty('lang', Language::getLanguage(App::$app->getProperty('langs')));
+    // debug(App::$app->getProperties());
   }
 
   protected function setMeta($title = '', $desc = '', $keywords = '')
