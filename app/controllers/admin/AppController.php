@@ -2,8 +2,10 @@
 
 namespace app\controllers\admin;
 
+use app\models\Main;
 use fw\core\base\Controller;
 use app\models\User;
+new \app\models\Main;
 
 class AppController extends Controller
 {
@@ -15,5 +17,6 @@ class AppController extends Controller
     if(!User::isAdmin() && $route['action'] != 'login') {
       redirect(ADMIN . '/user/login');
     }
+    new Main();
   }
 }

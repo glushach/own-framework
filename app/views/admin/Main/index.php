@@ -1,1 +1,2 @@
 Admin Panel
+<?= debug($posts); ?>
