@@ -12,6 +12,7 @@ define('LIBS', dirname(__DIR__) . '/vendor/fw/libs');
 define('APP', dirname(__DIR__) . '/app');
 define('CACHE', dirname(__DIR__) . '/tmp/cache');
 define('LAYOUT', 'blog');
+define('ADMIN', 'http://fw.loc/admin');
 
 require '../vendor/fw/libs/functions.php';
 require __DIR__ . '/../vendor/autoload.php';
