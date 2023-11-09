@@ -7,6 +7,14 @@
     <div class="card-body login-card-body">
       <p class="login-box-msg">Sign in to start your session</p>
 
+      <?php if (isset($_SESSION['error'])) : ?>
+        <div class="alert alert-danger alert-dismissible">
+          <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+          <h5><i class="icon fas fa-ban"></i> Ошибка!</h5>
+          <?= $_SESSION['error']; unset($_SESSION['error']) ?>
+        </div>
+      <?php endif; ?>
+
       <form action="<?= ADMIN ?>/user/login" method="post">
         <div class="input-group mb-3">
           <input type="text" name="login" class="form-control" placeholder="Login">
@@ -17,7 +25,7 @@
           </div>
         </div>
         <div class="input-group mb-3">
-          <input type="password" class="form-control" placeholder="Password">
+          <input type="password" name="password" class="form-control" placeholder="Password">
           <div class="input-group-append">
             <div class="input-group-text">
               <span class="fas fa-lock"></span>
